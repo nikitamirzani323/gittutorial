@@ -1,10 +1,14 @@
 - satu
 - satu satu
 - satu dua
+- satu tiga
 - dua
 - dua satu
 - dua dua
+- dua tiga
 - tiga
+- tiga satu
+- tiga dua
 - empat
 - lima
 - enam
