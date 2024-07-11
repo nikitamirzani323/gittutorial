@@ -12,3 +12,6 @@
 - delapan
 - sembilan
 - sepuluh
+- sebelas
+- duabelas
+- tigabelas
