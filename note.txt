@@ -5,6 +5,8 @@
 - tiga
 - empat
 - lima
+- limakambing
+- limasapi
 - enam
 - tujuh
 - delapan
