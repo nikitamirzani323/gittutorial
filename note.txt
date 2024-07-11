@@ -13,6 +13,8 @@
 - tiga dua
 - empat
 - lima
+- limakambing
+- limasapi
 - enam
 - tujuh
 - delapan
