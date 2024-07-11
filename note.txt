@@ -4,3 +4,7 @@
 - empat
 - lima
 - enam
+- tujuh
+- delapan
+- sembilan
+- sepuluh
