@@ -1,3 +1,4 @@
+- minussatu
 - nol
 - satu
 - dua
@@ -14,3 +15,4 @@
 - tigabelas
 - empatbelas
 - limabelas
+- enambelas
